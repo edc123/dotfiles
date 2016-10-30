@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.cursorBlinking": "blink",
+	"editor.fontFamily": "'Inconsolata', monospace",
+	"editor.fontSize": 18,
+	"editor.lineHeight": 35,
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": true,
+	"editor.renderIndentGuides": true,
+	"eslint.enable": false,
+	"explorer.autoReveal": false,
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 1000,
+	"files.associations": {
+		"*.ejs": "html"
+	},
+	"files.eol": "\n",
+	"javascript.validate.enable": false,
+	"workbench.editor.showTabs": false,
+	"typescript.check.tscVersion": false
+}
