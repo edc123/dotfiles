@@ -1,9 +1,11 @@
 // Place your settings in this file to overwrite the default settings
 {
 	"editor.cursorBlinking": "blink",
-	"editor.fontFamily": "'Inconsolata', monospace",
-	"editor.fontSize": 18,
-	"editor.lineHeight": 35,
+	"editor.fontFamily": "Consolas, 'Inconsolata', monospace",
+	"editor.fontSize": 17,
+	"editor.fontWeight": "bold",
+	"editor.lineHeight": 25,
+	"editor.mouseWheelZoom": true,
 	"editor.insertSpaces": false,
 	"editor.renderWhitespace": true,
 	"editor.renderIndentGuides": true,
@@ -17,5 +19,8 @@
 	"files.eol": "\n",
 	"javascript.validate.enable": false,
 	"workbench.editor.showTabs": false,
-	"typescript.check.tscVersion": false
+	"workbench.sideBar.location": "right",
+	"typescript.check.tscVersion": false,
+	"window.zoomLevel": -1,
+	"workbench.statusBar.visible": false
 }
